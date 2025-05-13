@@ -149,4 +149,5 @@ form h2 {
 .btn-reset:hover{
     box-shadow: 0   2px 4px rgba(5, 255, 109, 0.3),
                 0   8px 16px    rgba(5, 255, 109, 0.3);
+    color: red;
 }
